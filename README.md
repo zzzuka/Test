@@ -1,4 +1,3 @@
 # Test
 
-it's test project
-***
+it's a new project
